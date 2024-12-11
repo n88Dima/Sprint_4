@@ -12,7 +12,7 @@
 4. test_get_books_with_specific_genre  
    Проверяет, что функция возвращает список книг определенного жанра.
 
-5. test_get_books_for_children  
+5. test_get_books_for_children  п
    Проверяет, что функция возвращает список книг, подходящих для детей.
 
 6. test_add_book_in_favorites_valid_case  
